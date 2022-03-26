@@ -1,11 +1,11 @@
 baseURL = 'http://panilsson.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Philip Nilsson'
 theme="smol"
 
 # Parameters
 [params]
-    subtitle = "Your blog subtitle goes here!"
+#    subtitle = "Your blog subtitle goes here!"
     dateFmt = "02.01.2006 15:04"
 
 # Header
@@ -31,7 +31,7 @@ theme="smol"
 # Footer
   [[menu.footer]]
         name = "Github"
-        url = "https://github.com/example"
+        url = "http://github.com/panilsson"
         weight = 1 
 
         [[menu.footer]]
