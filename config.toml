@@ -1,4 +1,4 @@
-baseURL = 'http://panilsson.github.io'
+baseURL = 'http://panilsson.com'
 languageCode = 'en-us'
 title = 'Philip Nilsson'
 theme="smol"
