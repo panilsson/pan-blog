@@ -35,6 +35,6 @@ theme="smol"
         weight = 1 
 
         [[menu.footer]]
-        name = "Imprint"
-        url = "/imprint"
+        name = "Hugo"
+        url = "https://gohugo.io/"
         weight = 3 
